@@ -137,3 +137,8 @@ void remove_comment(char *input)
 	}
 	input[i] = '\0';
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 653fe445f0e4a11335bccac8d8d59dde27c712a4
